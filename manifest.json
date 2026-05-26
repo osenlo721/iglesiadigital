@@ -1,9 +1,9 @@
 {
-  "name": "IPUC Algarrobo",
-  "short_name": "IPUC",
-  "description": "App oficial de la Iglesia Pentecostal Unida de Colombia - Algarrobo",
-  "start_url": "/ipuc/",
-  "scope": "/ipuc/",
+  "name": "IglesiaDigital",
+  "short_name": "IglesiaDigital",
+  "description": "App comunitaria para iglesias - Conectando la iglesia con la tecnología",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#003B6F",
@@ -12,13 +12,13 @@
   "categories": ["lifestyle", "social"],
   "icons": [
     {
-      "src": "https://osenlo721.github.io/ipuc/icon-192.png",
+      "src": "https://iglesiadigital.lat/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://osenlo721.github.io/ipuc/icon-512.png",
+      "src": "https://iglesiadigital.lat/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
